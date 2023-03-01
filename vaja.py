@@ -1,0 +1,6 @@
+string1 = input("Unesi tekst: ")
+string2 = input("Unesi tekst 2: ")
+x = float(input("Unesi broj: "))
+y = float(input("Unesi broj: "))
+print(string1 + string2)
+print(x * y)
